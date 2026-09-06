@@ -1,0 +1,7 @@
+# scraper output
+vehicles/
+
+# python
+__pycache__/
+*.pyc
+.venv/
